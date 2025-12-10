@@ -1,7 +1,0 @@
-[
-  {"id":1,"name":"Rahul Sharma","mobile":"9876543210","pan":"ABCDE1234F","salary":65000,"credit_score":750},
-  {"id":2,"name":"Priya Patel","mobile":"9876543211","pan":"FGHIJ5678K","salary":45000,"credit_score":620},
-  {"id":3,"name":"Amit Kumar","mobile":"9876543212","pan":"KLMNO9012P","salary":80000,"credit_score":780},
-  {"id":4,"name":"Neha Gupta","mobile":"9876543213","pan":"PQRST4567U","salary":72000,"credit_score":710},
-  {"id":5,"name":"Rohan Singh","mobile":"9876543214","pan":"VWXYZ8901B","salary":85000,"credit_score":790}
-]
